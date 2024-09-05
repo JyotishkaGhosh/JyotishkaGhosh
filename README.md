@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...https://www.linkedin.com/in/jyotishka-ghosh-5470b228a/
 - 😄 Pronouns: ...she/her
-- 
 
 <!---
 JyotishkaGhosh/JyotishkaGhosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
